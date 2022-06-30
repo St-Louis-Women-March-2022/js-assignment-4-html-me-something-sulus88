@@ -1,1 +1,68 @@
+body{
+    margin:8px;
+    display:block;
+    color: black;
+    background-color: #f3e9dd;
+    
+}
+
+p { 
+    text-align: justify;
+    margin: 10px 5px;
+
+}
+
+h1{
+    border: 10px solid darkgoldenrod;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: lightblue;
+    padding: 1px;
+}
+
+
+h2{
+    border: 5px solid darkgoldenrod;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: lightblue;
+    padding: 5px;
+}
+
+#mainHeading {
+    color:red
+}
+
+.funParagraph {
+    color:green
+}
+a {
+    color : goldenrod;
+    text-decoration: none;
+}
+
+.unorderedList {
+    text-align: center;
+    font-weight:1000;
+    margin-bottom: 1rem;
+}
+
+.picture{
+    display: inline-block;
+    height: auto;
+    width: 1300px;
+    text-align: center;
+}
+
+
+
+#copyright {
+    font-weight: 300;
+    text-align: center; 
+
+}
 /* Write your CSS here! */
