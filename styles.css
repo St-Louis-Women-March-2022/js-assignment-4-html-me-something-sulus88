@@ -3,6 +3,7 @@ body{
     display:block;
     color: black;
     background-color: #f3e9dd;
+    
 }
 
 p { 
@@ -50,6 +51,12 @@ a {
     margin-bottom: 1rem;
 }
 
+.picture{
+    display: inline-block;
+    height: auto;
+    width: 1300px;
+    text-align: center;
+}
 
 
 
